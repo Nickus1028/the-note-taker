@@ -21,10 +21,5 @@ Navigate to the folder containing server.js and run "npm start" in the terminal.
 ## Usage
 Hosts a website to create and take notes
 
-## Questions
-Contact information for questions:  
-
-Github: https://www.github.com/nickus1028  
-Email: nick@test.com
 
 
