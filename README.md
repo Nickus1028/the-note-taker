@@ -6,7 +6,7 @@ A website that lets you create and save notes that uses the following:
 * Javascript
 * HTML
 * CSS
-* Express
+* Express.js
 * Node.js
 
 ## Screenshot
